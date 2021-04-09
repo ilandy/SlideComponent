@@ -1,0 +1,2 @@
+# SlideComponent
+Created with CodeSandbox
